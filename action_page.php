@@ -1,6 +1,6 @@
 <?php 
 
-echo $_POST['uname']."<br/>";
-echo $_POST['psw']."<br/>";
+echo "USERNAME : ".$_POST['uname']."<br/>";
+echo "PASSWORD : ".$_POST['psw']."<br/>";
 
 ?>
